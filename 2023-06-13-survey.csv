@@ -1,0 +1,63 @@
+Timestamp,Operating System,CPU Cycle Rate (in GHz),CPU Number of Cores (int),RAM (in GB),Hard Drive Size (in GB),GPU (short description as a string),GPU CUDA Number of Cores (int)
+6/13/2023 13:21,Windows,3,8,16,935,NVIDIA GeForce RTX 2060 with Max-Q Design,5888
+6/13/2023 13:23,I use Mac and Linux,2133,2,8,250,Intel Iris Plus Graphics,1
+6/13/2023 13:24,MacOS,3.2,8,8,256,M1,8
+6/13/2023 13:25,MacOS,3.6,12,32,1000,M2 Max,38
+6/13/2023 13:25,Windows,2.3,8,16,500,NVIDIA GeForce RTX 3050 Ti Laptop GPU,2560
+6/13/2023 13:25,Windows,3.3,4,16,475,NVIDA GeForce RTX 3050 Ti Laptop GPU,2560
+6/13/2023 13:26,Windows,1.8,4,8,237,Intel(R) UHD Graphics 620,0
+6/13/2023 13:26,MacOS,1.4,8,8,251,Intel Iris Plus Graphics 645,4
+6/13/2023 13:27,MacOS,2.3,4,8,250,Intel Iris Plus Graphics 655,48
+6/13/2023 13:27,MacOS,3.49,8,8,245,Apple M2 GPU,8
+6/13/2023 13:27,Windows,4.7,10,16,1000,Intel® Iris® Xe Graphics,4
+6/13/2023 13:27,Windows,2.4,4,16,512,Integrated Graphics,0
+6/13/2023 13:28,MacOS,3.49,8,8,500,M2 Chip,10
+6/13/2023 13:28,Windows,2.6,6,16,952,NVIDIA GeForce GTX 1650 with Max-Q Design,1024
+6/13/2023 13:28,MacOS,1.6,2,8,256,Intel UHD Graphics 617 1536 MB,0
+6/13/2023 13:28,MacOS,2.4,4,16,251,Intel Iris Plus Graphics,384
+6/13/2023 13:29,MacOS,2.8,4,16,500,Intel Iris Plus Graphics 655 1536 MB,384
+6/13/2023 13:29,MacOS,2.4,4,8,500,Intel Iris Plus Graphics 655 1536 MB,1
+6/13/2023 13:29,Windows,1.8,4,8,238,N/A,0
+6/13/2023 13:29,MacOS,3.49,8,8,245,Apple M2 GPU,8
+6/13/2023 13:29,MacOS,1.4,4,8,256,Intel Iris Plus Graphics 645,1
+6/13/2023 13:29,MacOS,1.6,2,8,128,Intel HD Graphics 4000,1
+6/13/2023 13:29,Windows,2.5,2,8,500,Intel HD Graphics 520,0
+6/13/2023 13:30,MacOS,3.2,8,8,512,Apple-designed integrated graphics,8
+6/13/2023 13:30,MacOS,1.6,2,8,25,Intel UHD Graphics 617,2
+6/13/2023 13:31,Windows,1.6,4,16,238,Intel(R) UHD Graphics 620,24
+6/13/2023 13:31,MacOS,3.49,10,32,1000,Apple integrated graphics,16
+6/13/2023 13:33,MacOS,1.4,4,8,121,Intel Iris Plus Graphics 645 1536 MB,0
+6/13/2023 13:33,MacOS,2,4,16,500,Intel Iris Plus Graphics 1536 MB,0
+6/13/2023 13:33,Windows,2.4,4,8,238,Integrated graphic CPU (Intel(R) Xe Graphics ,0
+6/13/2023 13:34,MacOS,2.6,6,16,499,Intel UHD Graphics 630,192
+6/13/2023 13:34,Windows,1.3,4,16,460,Intel(R) Iris(R) Plus Graphics,1000
+6/13/2023 13:34,MacOS,3.6,12,32,64,Integrated GPU,38
+6/13/2023 13:34,MacOS,3.49,10,16,512,Apple M2 Pro (Built-In),10
+6/13/2023 13:35,MacOS,1.4,4,8,256,Macbook_and_an_intel_chip_therefore_no_GPU_and_no_CUDA,0
+6/13/2023 13:35,Windows,1.7,10,16,512,none,0
+6/13/2023 13:35,Windows,2.5,4,8,237,Intel(R) Iris(R) Xe Graphics,4
+6/13/2023 13:35,MacOS,1.4,4,8,256,0,0
+6/13/2023 13:36,MacOS,3.5,8,8,16,M2 with 10-core GPU,10
+6/13/2023 13:37,Windows,2.6,4,16,471,Intel(R) Iris(R) Xe Graphics,1000
+6/13/2023 13:37,Windows,2,8,16,512,AMD Radeon (TM) Graphics,8
+6/13/2023 13:37,Windows,2.6,6,16,371,Intel UHD 630,1
+6/13/2023 13:37,Windows,1.7,10,16,952,Intel(R) Iris(R) Xe Graphics,0
+6/13/2023 13:37,MacOS,2.5,2,4,500,Intel HD Graphics 4000 1024 MB,12
+6/13/2023 13:38,MacOS,2.4,8,16,250,Intel UHD Graphics 630,192
+6/13/2023 13:38,MacOS,3.2,10,64,2000,Built-in GPU,24
+6/13/2023 13:38,MacOS,3.2,10,64,4000,Apple M1 Max 32-Core GPU,32
+6/13/2023 13:38,MacOS,3.5,8,8,500,Apple M2 (10 Core),10
+6/13/2023 13:38,Windows,1.9,4,16,461,Intel(R) UHD Graphics 620,24
+6/13/2023 13:40,Windows,1.7,4,16,222,Intel(r) UHD Graphics 620,192
+6/13/2023 13:41,MacOS,2.3,2,8,500,Intel Iris Plus Graphics 640,384
+6/13/2023 13:43,MacOS,3.2,10,32,1000,Apple M1 Pro,16
+6/13/2023 13:43,Windows,2.6,2,8,238,Intel(R) HD Graphics 520,192
+6/13/2023 13:44,MacOS,2.3,4,8,250,Intel Iris Plus Graphics 655,384
+6/13/2023 13:44,MacOS,3.1,2,16,500,Intel Iris Graphics 6100,384
+6/13/2023 13:45,Windows,1.6,4,8,237,Intel(R) UHD Graphics 620,4
+6/13/2023 13:45,Windows,2.5,4,16,475,Intel (R) HD Graphics 520,4
+6/13/2023 13:45,Windows,2.5,2,8,237,Intel(R) HD Graphics 620,0
+6/13/2023 13:45,MacOS,2.3,2,8,256,M2 integrates an Apple designed ten-core (eight in some base models) graphics processing unit,0
+6/13/2023 13:47,MacOS,2.3,2,8,500,Integrated Graphics,0
+6/13/2023 13:49,Windows,1.8,5,8,224,Zero point two out of three point nine,5
+6/13/2023 13:52,MacOS,2.3,2,8,250,Intel Iris Plus Graphics 640,0
